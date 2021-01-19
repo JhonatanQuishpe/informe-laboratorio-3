@@ -132,22 +132,28 @@ LEYES DE KIRCHHOFF
 
 ## 10.	ANEXOS: 
 ###### Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX
+
 voltaje 
 ![](https://fotos.subefotos.com/9ce7d931dc5c36ff62a8b2f32607d4b2o.jpg)
+
 corriente
 ![](https://fotos.subefotos.com/17391cdc62e983341857c0a0cc156246o.jpg)
 
 
 ###### Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, 
+
 voltaje
 ![](https://fotos.subefotos.com/395687b548ed90a4a7f1175c1910ca90o.jpg)
+
 corriente
 ![](https://fotos.subefotos.com/b251f7591415b2ffa3628dc92e48a4e5o.jpg)
 
 
 ###### Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX,
+
 voltaje
 ![](https://fotos.subefotos.com/9bfff94741f2ef939b60005adb26d127o.jpg)
+
 corriente
 ![](https://fotos.subefotos.com/94a6263c24a96abf34ac24557dd13147o.jpg)
 
