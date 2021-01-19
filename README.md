@@ -1,4 +1,4 @@
-# informe de laboratorio 3 Jhonatan Quishpe 
+# Informe de laboratorio 3 Jhonatan Quishpe 
 Informe Lab 3 (Quishpe Jhonatan- Flores Arévalo)
 # Informe laboratorio 3
 
@@ -12,7 +12,7 @@ CARRERA DE ING.MECATRÓNICA
 
 NRC: 4872
 
-**INFORME DE LABORATORIO N° 1**
+**INFORME DE LABORATORIO N° 3**
 
 **INTEGRANTES:**
 
