@@ -122,6 +122,7 @@ TEOREMA DE LA SUPERPOSICION
 
 
 LEYES DE KIRCHHOFF
+
 [Neiman, L. R.; y Demirchian, L. R. (1981): Teoreticheskie osnovi electrotejniki. Leningrado: Energoizdat. ](https://www.ecured.cu/Leyes_de_Kirchhoff#La_primera_ley_de_Kirchhoff.2C_o_ley_de_los_nodos.2C_o_ley_de_las_corrientes)
 
 [tinkercad](https://www.tinkercad.com/things/8h0Km2KYppC-funky-trug/editel?tenant=circuits "tinkercad")
