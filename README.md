@@ -60,7 +60,7 @@ Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la p
 del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en
 la tabla 4.1. y 4.2. según corresponda.
 En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes com pide en la practica 
-[Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
+[Explicacion en video ](https://youtu.be/rwX1jOsUR5Y)
 
 
 ## 6.	DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN: 
@@ -151,5 +151,5 @@ corriente
 ![](https://fotos.subefotos.com/94a6263c24a96abf34ac24557dd13147o.jpg)
 
 Video explicativo 
-[video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
-[segunda parte lab 1 calculo de corrientes](https://www.youtube.com/watch?v=_Au_3_axZe8 "segunda parte lab 1")
+[video del grupo en youtube](https://youtu.be/rwX1jOsUR5Y)
+
