@@ -116,6 +116,7 @@ RECOMENDACIONES
 ## 9.	BIBLIOGRAFÍA: 
 
 TEOREMA DE LA SUPERPOSICION
+
 [TINA (30 de Julio 2020), TEOREMA DE LA SUPERPOSICION](https://www.tina.com/es/superposition-theorem/)
 
 [Willy McAllister (primavera del 2006), SUPERPOSICIÓN, Khan Academy](https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition )
