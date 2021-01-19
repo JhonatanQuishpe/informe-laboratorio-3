@@ -55,7 +55,11 @@ Fecha de entrega: 19/01/2021
 
 ## 5.	EXPLICACIÓN: 
 Tinkercad es un navegador web el cual lo utilizamos para realizar los circuitos de la practica es un cimulador donde podemos encotrar todo tipos de elementos para hacer la misma practica y permite diseñar y modelar objetos en 3D, desde elementos simples a formas más complejas.
-En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes e cada elemento 
+Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el
+Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad
+del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en
+la tabla 4.1. y 4.2. según corresponda.
+En el siguiente video se muestra como realizamos el circuito desde como armarlo hasta como sacar corrientes y voltajes com pide en la practica 
 [Explicacion en video ](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
 
 
